@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xili Wan"
   avatar           : "profile.png"
-  bio              : "School of Computer and Information Engineering (School of Artificial Intelligence) Nanjing Tech University"
+  bio              : "Associate Professor, Department of Computer Science Nanjing Tech University, Nanjing, Jiangsu, China"
   location         : "Nanjing, Jiangsu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
