@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "course"
 collection: teaching
 type: "course"
-permalink: "/teacheing/2014-spring-teaching-1.md"
+permalink: "/teaching/2014-spring-teaching-1.md"
 venue: ""
 date: 
 location: ""
