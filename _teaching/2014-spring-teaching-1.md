@@ -1,8 +1,8 @@
 ---
 title: ""
 collection: teaching
-type: "Undergraduate course"
-permalink: 
+type: "course"
+permalink: "/teacheing/2014-spring-teaching-1.md"
 venue: ""
 date: 
 location: ""
