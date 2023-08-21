@@ -2,7 +2,7 @@
 title: "course"
 collection: teaching
 type: "course"
-permalink: "/teaching/2014-spring-teaching-1.md"
+permalink: "/teaching/2014-spring-teaching-1"
 venue: ""
 date: 
 location: ""
