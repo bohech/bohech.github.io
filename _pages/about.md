@@ -17,8 +17,12 @@ Research interests include artificial intelligence, cloud computing, big data, a
 Selected Honors and Awards
 ======
 • NSFC (Natural Science Foundation of China) grant for research on Reliability Design for Roadside Sensor Networks (PI), 2017-2019 
+
 • NSF-JS (Natural Science Foundation of Jiangsu Province of China) grant for research on Lifetime Optimization for Roadside Sensor Networks (PI),  2016-2019 
+
 • Industry Funds for research on Artificial Intelligence.
+
 • Startup Fund for Introducing Talent of Nanjing Tech University 
+
 • First GENI Summer Camp Award
 
