@@ -10,12 +10,3 @@ location: ""
 • CS Fundamental of Operating System 
 
 • CS Introduction to Data Science
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
